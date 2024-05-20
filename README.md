@@ -1,7 +1,7 @@
 # Information about repository
 You can change code and improve feel free :)
 Don't forget subscribe on channel [PicsWorld](https://www.youtube.com/@picsworldstudio/featured)
-And also you can find tutorial this project on my youtube channel: [React app to the next level with React Router pages](https://youtu.be/lnKl6je63U0)
+And also you can find tutorial this project on my youtube channel: [How to create mobile menu in React app Tutorial](https://youtu.be/lnKl6je63U0)
 
 # Getting Started with Create React App
 
